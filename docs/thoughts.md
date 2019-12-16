@@ -110,7 +110,7 @@ The component-down equivalent:
             Some card content 'cause <span>{{item}}</span>
           </div>
         </paper-card>
-      {{%}}
+      {{% /template %}}
     </div>
   </div>
 </div>
