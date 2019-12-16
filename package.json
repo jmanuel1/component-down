@@ -1,0 +1,14 @@
+{
+  "name": "component-down",
+  "version": "0.0.1",
+  "main": "src/main.js",
+  "author": "Jason Manuel <jama.indo@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "remarkable": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}
